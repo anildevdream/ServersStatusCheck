@@ -13,7 +13,7 @@ time.sleep(3)
 
 # Find the email input field and enter the email
 email_input = driver.find_element_by_id("email")
-email_input.send_keys("anil.kumara@pressganey.com")
+email_input.send_keys("*********")
 
 # Click on the next button
 next_button = driver.find_element_by_id("next")
